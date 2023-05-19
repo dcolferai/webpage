@@ -1,0 +1,8 @@
+R.K.Ellis, W.J.Stirling, B.R.Webber,
+QCD and Collider Physics
+Cambridge Monographs on particle physics, nuclear physics and cosmology
+
+S.Catani, M.H.Seymour,
+A General algorithm for calculating jet cross-sections in NLO QCD
+Nucl. Phys. B 485 (1997) p.291
+(In particolare l'inizio della sezione 7)

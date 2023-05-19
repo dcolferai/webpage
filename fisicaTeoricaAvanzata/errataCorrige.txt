@@ -1,0 +1,49 @@
+Lezione 1, pag. 9
+Nella formula di I(v,v') il primo termine del secondo membro non ha il fattore 1/2:
+I(v,v') = 1/beta_r * ln((1+beta_r)/(1-beta_r)) - 2 = ...
+
+Lezione 4, pag. V1, penultima riga
+alla fine del periodo: "... costruire il vettore gamma^mu"
+quel "gamma" e' maiuscolo, cioe' e' la matrice
+Gamma^mu(p_2,p_1) definita dalla bolla a 3 gambe.
+
+Lezione 5, pag. C6
+(regolarizzazione dimensionale delle divergenze infrarosse):
+Nel terzo membro della prima formula, log(Delta/omega) -> log(Delta/lambda)
+
+Lezione 6, pag. W2, seconda riga
+sostituire "la cui energia e' minore" ->
+"i cui valori assoluti delle componenti del quadrimpulso |q^mu| sono minori"
+
+Lezione 6, pag. W5
+Nella prima formula, l'elemento di volume d^4 k va diviso per (2 pi)^4
+
+Lezione 8 (correzioni virtuali), pag. 7, seconda riga
+sostituire "G_{2R} = " -> "G_{2R} simeq" 
+("simeq" significa "circa uguale")
+Inoltre, alla quarta riga dello "schema MSbar", sostituire
+G_{R psi} -> G_{2R}
+
+Lezione 8 (correzioni reali, parte 1)
+Il calcolo si riferisce ad un generico quark di carica elettrica unitaria:
+Q_s = 1
+Quindi |M|^2 va moltiplicata per Q_s^2
+
+Lezione 10 (gli osservabili IR finiti), formule in fondo alla pag. 4:
+Per consistenza con le notazioni delle lezioni precedenti, sostituire
+E -> Delta  (nel limite superiore dell'integrale "Reale")
+L -> Lambda (nel limite superiore dell'integrale "Virtuale")
+
+Lezione 10 (gli osservabili IR finiti), pag. 12:
+Alle correzioni virtuali va aggiunto un segno meno.
+In questo modo l'ultima formula che esprime sigma_NLO e' giusta.
+
+Lezione 13, pag. 4  
+Nella prima formula dello spazio delle fasi, a denominatore sostituire
+(4 pi)^2 pi -> 4 (2 pi)^3
+
+Lezione 14, pag. 7, prima formula (F_1 = ...)
+* a secondo membro della prima riga, l'identita' e le correzioni logaritmiche
+  di ordine alfa vanno messe tra parentesi, in modo che tutte queste quantita'
+  vengano convolute con \hat{F}_1^(0)
+* a secondo membro della seconda riga, aggiungere alla fine  +O(alfa_s^2)

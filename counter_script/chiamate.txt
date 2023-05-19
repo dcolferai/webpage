@@ -1,0 +1,8 @@
+index.php
+ counter.inc.php
+  language.*.inc.php |
+  template.class.inc.php |
+  log.class.inc.php |
+  functions.inc.php |
+ -
+-
